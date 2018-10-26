@@ -1,0 +1,7 @@
+C:\Users\mhern\OneDrive - KNEX\Desktop\DevBuild Assessments\Assessment 3\Assessment3\Assessment3\bin\Debug\Assessment3.exe.config
+C:\Users\mhern\OneDrive - KNEX\Desktop\DevBuild Assessments\Assessment 3\Assessment3\Assessment3\bin\Debug\Assessment3.exe
+C:\Users\mhern\OneDrive - KNEX\Desktop\DevBuild Assessments\Assessment 3\Assessment3\Assessment3\bin\Debug\Assessment3.pdb
+C:\Users\mhern\OneDrive - KNEX\Desktop\DevBuild Assessments\Assessment 3\Assessment3\Assessment3\obj\Debug\Assessment3.csprojAssemblyReference.cache
+C:\Users\mhern\OneDrive - KNEX\Desktop\DevBuild Assessments\Assessment 3\Assessment3\Assessment3\obj\Debug\Assessment3.csproj.CoreCompileInputs.cache
+C:\Users\mhern\OneDrive - KNEX\Desktop\DevBuild Assessments\Assessment 3\Assessment3\Assessment3\obj\Debug\Assessment3.exe
+C:\Users\mhern\OneDrive - KNEX\Desktop\DevBuild Assessments\Assessment 3\Assessment3\Assessment3\obj\Debug\Assessment3.pdb
